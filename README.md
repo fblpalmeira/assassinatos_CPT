@@ -8,3 +8,8 @@ Estou estudando os assasinatos causados por conflitos no campo registrados pela 
 
 <img src="https://github.com/fblpalmeira/assassinatos_CPT/blob/main/network.png"/>
 
+Referências
+
+Allaire JJ, et al. (2017). [Package ‘networkD3’. D3 JavaScript network graphs from R](https://mran.revolutionanalytics.com/web/packages/networkD3/networkD3.pdf).
+
+CPT (2022). [Massacre no campo: dados de assassinatos da Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos).
