@@ -7,6 +7,7 @@ Estou estudando os assasinatos causados por conflitos no campo registrados pela 
 - [Planilha de dados `.xls`](https://github.com/fblpalmeira/assassinatos_CPT/blob/main/assassinatos_10y_CPT.xls)
 
 <img src="https://github.com/fblpalmeira/assassinatos_CPT/blob/main/assassinatos_CPT.png"/>
+<img src="https://github.com/fblpalmeira/assassinatos_CPT/blob/main/network.png"/>
 
 Referências
 
