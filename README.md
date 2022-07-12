@@ -1,8 +1,9 @@
-# Estudando assassinatos decorrentes de conflitos no campo
+# Estudando os assassinatos decorrentes de conflitos no campo
 
-Estou estudando os assasinatos causados por conflitos no campo registrados pela [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos). Para complementar os dados da Comissão Pastoral da Terra, adicionei o tipo de bioma para cada ocorrência. O diagrama abaixo mostra ...
+Estou estudando os assasinatos causados por conflitos no campo registrados pela [Comissão Pastoral da Terra](https://www.cptnacional.org.br/downlods/category/5-assassinatos). Para complementar os dados da Comissão Pastoral da Terra, adicionei o tipo de bioma para cada ocorrência. Pretendo adicionar ao estudo os demais dados falatantes referentes ao anos anteriores a 2012-2021. Também quero disponibilizar um dashboard com esses dados. Para mais informações, acesse a página com o [gráfico interativo](https://rpubs.com/fblpalmeira/Assassinatos_CPT). O diagrama abaixo mostra que nos últimos dez anos a maioria dos assinatos causados por conflitos no campo ocorreu no bioma Amazônia, seguido pela Mata Atlântica, Cerrado e Caatinga. A maioria das vítimas era sem terra, indígena, assentado, posseiro, quilombola, trabahador rural, entre outras categorias. Quase 90% das vitímas era do sexo masculino. Cerca de 30% dos assassinatos ocorreram com as lideranças das comunidades.
 
 Dados (https://github.com/fblpalmeira/assassinatos_CPT/blob/main/assassinatos_10y_CPT.xls)
 Código (https://github.com/fblpalmeira/assassinatos_CPT/blob/main/assassinatos_sankey.R)
 
-[HTML](https://rpubs.com/fblpalmeira/Assassinatos_CPT)
+<img src="https://github.com/fblpalmeira/assassinatos_CPT/blob/main/network.png"/>
+
